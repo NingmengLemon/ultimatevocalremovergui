@@ -39,3 +39,4 @@ onnx2pytorch
 SoundFile==0.11.0; sys_platform != 'darwin'
 PySoundFile==0.9.0.post1; sys_platform == 'darwin'
 numpy==1.23.5
+Setuptools<81
